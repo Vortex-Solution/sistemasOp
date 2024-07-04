@@ -9,7 +9,7 @@ let promT = 0;
 let promE = 0;
 let promI = 0;
 let indexti;
-let indext
+let indext;
 class Excel{
     
     constructor(content){
